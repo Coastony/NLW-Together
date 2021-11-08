@@ -1,2 +1,2 @@
-# OriginSix-Rocketseat
-Aprendi as principais tecnologias da web como HTML, CSS e animações com JS.
+# NLW Together-RocketSeat
+Como construir um site do zero com as principais tecnologias web com HTML, CSS e JS.
