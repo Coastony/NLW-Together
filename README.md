@@ -1,3 +1,3 @@
 # NLW Together-RocketSeat
-Mission: Origin
+Mission: Origin<br>
 NLW Together - 6° Edição
