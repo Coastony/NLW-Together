@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
- <img src="images/habits.png" width="550" alt="Image project">
+ <img src="assets/beautysalon.png" width="550" alt="Image project">
 </p>
 
 ## 📁 Project access
