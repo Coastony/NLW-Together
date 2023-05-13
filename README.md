@@ -14,4 +14,4 @@
 </p>
 
 ## 📁 Project access
-You can access the project files by clicking [here](https://github.com/Coastony/NLW-Setup)
+You can access the project files by clicking [here](https://github.com/Coastony/NLW-Together)
