@@ -5,10 +5,6 @@
   box-sizing: border-box;
 }
 
-body {
- overflow-x: hidden;
-}
-
 ul {
   list-style: none;
 }
@@ -55,6 +51,7 @@ body {
   color: var(--text-color);
   background: var(--body-color);
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 .title {
