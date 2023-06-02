@@ -5,7 +5,7 @@
  ## ✔️ Techniques and technologies used
 
 - ``HTML5`` ``CSS3`` ``JavaScript`` 
-- NLW Together - 6° Edição
+- NLW Together - 6° Edition
 
 <br>
 
